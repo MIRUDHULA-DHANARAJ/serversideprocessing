@@ -75,7 +75,7 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![output](1.png)
+![output](1.PNG)
 
 http://manoj2103student.saveetha.in
 ## Result:
