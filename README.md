@@ -77,7 +77,7 @@ urlpatterns = [
 ## OUTPUT:
 ![output](1.PNG)
 
-http://manoj2103student.saveetha.in
+http://mirudhula05.student.saveetha.in
 ## Result:
 The code to execute mathematical website in server side has been created successfully.
 
